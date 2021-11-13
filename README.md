@@ -39,11 +39,7 @@ We take the example below:
 
 In the above demonstration, the green section resembles our 5x5x1 input image, I. The element involved in carrying out the convolution operation in the first part of a Convolutional Layer is called the Kernel/Filter, K, represented in the color yellow. We have selected K as a 3x3x1 matrix.
 
-Kernel/Filter,
-
-K = 1  0  1
-    0  1  0
-    1  0  1
+![image](https://user-images.githubusercontent.com/84669222/141661866-495e71ec-53fd-47d1-b710-840fea75031a.png)
 
 The Kernel shifts 9 times because of Stride Length = 1 (Non-Strided), every time performing a matrix multiplication operation between K and the portion P of the image over which the kernel is hovering. 
 
