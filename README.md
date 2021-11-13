@@ -1,4 +1,4 @@
-# Object-Detection-using-MobileNet-SSD-Open-CV
+# Object-Detection-using-MobileNet-SSD-Open-(Computer Vision)
 
 here is a simple project where I use MobileNet SSD and its Caffe framework and OpenCV to predict and recognize object on a video of my choice.
 
